@@ -7,7 +7,7 @@ pandas.
 Data **Extracted** from:
 .csv and .json
 
-Data **Transfomred** with Pandas 
+Data **Transfomred** with Python Pandas 
 
 Final Data **Loaded**  in .csv file
 
