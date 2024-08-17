@@ -4,11 +4,11 @@ Languages used:
 Python.
 pandas.
 
-Data used from:
-from csv and json
+Data **Extracted** from:
+.csv and .json
 
-**Extracting** data from multiple flat files of diffrent sources.
-Applying some logic while **Transforming**  it together.
-**Loading** the transformed file. 
+Data **Transfomred** with Pandas 
+
+Final Data **Loaded**  in .csv file
 
 The whole process is tracked in a log file.
