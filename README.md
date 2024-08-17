@@ -7,7 +7,8 @@ pandas.
 Data used from:
 from csv and json
 
-Here we are taking data from multiple flat files of diffrent sources.
-Applying some logic while processing it together and executing the output file.
+**Extracting** data from multiple flat files of diffrent sources.
+Applying some logic while **Transforming**  it together.
+**Loading** the transformed file. 
 
 The whole process is tracked in a log file.
